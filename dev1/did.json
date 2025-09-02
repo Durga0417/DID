@@ -1,31 +1,23 @@
 {
-  "@context": [
-    "https://www.w3.org/ns/did/v1",
-    "https://w3id.org/security/suites/ed25519-2020/v1"
-  ],
-  "id": "did:web:durga0417.github.io:DID:dev1",
-  "verificationMethod": [
-    {
-      "id": "did:web:durga0417.github.io:DID:dev1#key-0",
-      "type": "Ed25519VerificationKey2020",
-      "controller": "did:web:durga0417.github.io:DID:dev1",
-      "publicKeyMultibase": "z6MktZnx61MSb9Umb8dunmwoGktB2yAj7Hf3fZebUYctb2kL"
-    }
-  ],
-  "publicKey": [
-    {
-      "id": "did:web:durga0417.github.io:DID:dev1#key-0",
-      "type": "Ed25519VerificationKey2020",
-      "controller": "did:web:durga0417.github.io:DID:dev1",
-      "publicKeyMultibase": "z6MktZnx61MSb9Umb8dunmwoGktB2yAj7Hf3fZebUYctb2kL"
-    }
-  ],
-  "authentication": [
-    "did:web:durga0417.github.io:DID:dev1#key-0"
-  ],
   "assertionMethod": [
     "did:web:durga0417.github.io:DID:dev1#key-0"
   ],
   "service": [],
-  "alsoKnownAs": []
+  "id": "did:web:durga0417.github.io:DID:dev1",
+  "verificationMethod": [
+    {
+      "publicKeyMultibase": "z6Mkpbg6D1R5hYAPPDBjri5SjAr4hMcorcMbeucpjWUa58tn",
+      "controller": "did:web:durga0417.github.io:DID:dev1",
+      "id": "did:web:durga0417.github.io:DID:dev1#key-0",
+      "type": "Ed25519VerificationKey2020",
+      "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
+    }
+  ],
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "alsoKnownAs": [],
+  "authentication": [
+    "did:web:durga0417.github.io:DID:dev1#key-0"
+  ]
 }
