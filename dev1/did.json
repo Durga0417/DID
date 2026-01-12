@@ -9,7 +9,7 @@
       "id": "did:web:durga0417.github.io:DID:dev1#key-0",
       "type": "Ed25519VerificationKey2020",
       "controller": "did:web:durga0417.github.io:DID:dev1",
-      "publicKeyMultibase": "z6MkeaEKeDZ9vs1d4yqMspYvEkimNJhTHqiqP9PwQ14mvmbf"
+      "publicKeyMultibase": "z6MkjYTbJjZempfJcRsvcXM1ZkQHjpbHXtiM2CYLp8PBZXpd"
     }
   ],
   "assertionMethod": [
@@ -17,7 +17,7 @@
       "id": "did:web:durga0417.github.io:DID:dev1#key-0",
       "type": "Ed25519VerificationKey2020",
       "controller": "did:web:durga0417.github.io:DID:dev1",
-      "publicKeyMultibase": "z6MkeaEKeDZ9vs1d4yqMspYvEkimNJhTHqiqP9PwQ14mvmbf"
+      "publicKeyMultibase": "z6MkjYTbJjZempfJcRsvcXM1ZkQHjpbHXtiM2CYLp8PBZXpd"
     }
   ],
   "authentication": [
