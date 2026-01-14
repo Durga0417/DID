@@ -6,7 +6,7 @@
   "id": "did:web:durga0417.github.io:DID:dev1",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkg9AxmTYC2BSjKR1PJ8aLw4PDvhDKC73it2h7m4BSxyuq",
+      "publicKeyMultibase": "z6MkimnRhqJx6YUtmqBuDWqw1bjkppS5EV754yVnuS61ALky",
       "controller": "did:web:durga0417.github.io:DID:dev1",
       "id": "did:web:durga0417.github.io:DID:dev1#XAUnns6LlVqGempGBdTigum2fOc4SCVD48hbtxmUuk8",
       "type": "Ed25519VerificationKey2020",
