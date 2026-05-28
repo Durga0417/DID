@@ -6,7 +6,7 @@
   "id": "https://github.com/Durga0417/DID/blob/main/dev1/did.json",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkn13XqPD66hbvPsua5h14xHpr8R4ytGotpHdJgjhww8my",
+      "publicKeyMultibase": "z6Mkgv5asS3DBPxAvpM5L3KdR2VRrdPWPMdBg36RpTVk4hHw",
       "controller": "https://github.com/Durga0417/DID/blob/main/dev1/did.json",
       "id": "https://github.com/Durga0417/DID/blob/main/dev1/did.json#-6Yc6LmrVDOMtqQsxZQ4rB_b-l5JtyO4EuY9TQFPt7c",
       "type": "Ed25519VerificationKey2020",
