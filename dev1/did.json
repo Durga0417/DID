@@ -6,9 +6,9 @@
   "id": "did:web:durga0417.github.io:DID:dev1",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkjYXd31YpHxaYayG82D3M9S7kSVp3rV1mVD2nMatgDzAx",
+      "publicKeyMultibase": "z6MkhRUTvqEckYsHAg6pzYaRtbeTrkRJqgzvPGMJKE1c5rww",
       "controller": "did:web:durga0417.github.io:DID:dev1",
-      "id": "did:web:durga0417.github.io:DID:dev1#1RPfrn6R0fglqJWckBkIYNfuhPW2CwGAAMzGUbDZnBw",
+      "id": "did:web:durga0417.github.io:DID:dev1#Bbk0puSaAQGUpdczpV3J2efSNIanN6oAF9BYdSjY_hE",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
